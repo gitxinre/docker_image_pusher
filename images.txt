@@ -11,5 +11,5 @@
 # --------- 002 拉取nginx镜像
 #nginx
 
-bellsoft/liberica-openjdk-debian:8u362-lite
-azul/zulu-openjdk-debian:8
+liberica-openjdk-debian:8u362-lite
+zulu-openjdk-debian:8
