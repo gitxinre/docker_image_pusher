@@ -5,8 +5,11 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-openjdk:17
+#openjdk:17
 # --------- 001 拉取openjdk17镜像
 #openjdk:17
 # --------- 002 拉取nginx镜像
-nginx
+#nginx
+
+bellsoft/liberica-openjdk-debian:8u362-lite
+azul/zulu-openjdk-debian:8
